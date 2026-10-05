@@ -1,4 +1,4 @@
-const CACHE = '4x4-app-v1';
+const CACHE = '4x4-app-v2';
 const FILES = ['./index.html', './manifest.json', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
