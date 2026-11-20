@@ -1,7 +1,7 @@
 {
-  "name": "Consumo 4x4 L/100km",
+  "name": "Consum 4x4 L/100km",
   "short_name": "4x4",
-  "description": "Registra los repostajes de tu 4x4 y calcula su consumo en litros por 100 km",
+  "description": "Registra els repostatges del teu 4x4 i calcula’n el consum en litres per 100 km",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F1EFE8",
